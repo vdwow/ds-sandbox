@@ -1,0 +1,12 @@
+summarytools
+pandas
+numpy
+sweetviz
+ydata-profiling
+dataprep
+autoviz
+dtale
+dabl
+quickda
+lux-api
+psycopg2
